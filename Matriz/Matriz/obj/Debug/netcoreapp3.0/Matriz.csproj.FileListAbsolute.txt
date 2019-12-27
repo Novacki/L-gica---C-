@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.exe
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.deps.json
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.dll
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\bin\Debug\netcoreapp3.0\Matriz.pdb
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\obj\Debug\netcoreapp3.0\Matriz.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\obj\Debug\netcoreapp3.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\obj\Debug\netcoreapp3.0\Matriz.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\obj\Debug\netcoreapp3.0\Matriz.dll
+C:\Users\fernando.freitas\Desktop\Matriz\Matriz\obj\Debug\netcoreapp3.0\Matriz.pdb
